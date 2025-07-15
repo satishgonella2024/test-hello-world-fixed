@@ -1,0 +1,1 @@
+setup script for installing the project
